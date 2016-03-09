@@ -8,16 +8,18 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-<<<<<<< HEAD
-        <activity android:name=".MainActivity">
-=======
-        <activity android:name=".StateActivity">
->>>>>>> 99acaf69a39e94b85ace20aec494a39b321645f3
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+<!--<<<<<<< HEAD-->
+        <activity android:name=".CountryActivity">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+<!--=======-->
+        <activity android:name=".StateActivity">
+<!--&gt;>>>>>> 99acaf69a39e94b85ace20aec494a39b321645f3-->
+
         </activity>
     </application>
 

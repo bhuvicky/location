@@ -1,5 +1,5 @@
 <resources>
-<<<<<<< HEAD
+<!--<<<<<<< HEAD-->
 
     <string name="app_name">My App</string>
     <string-array name="country_name">
@@ -7,7 +7,7 @@
         <item> India   </item>
         <item> Pakistan</item>
     </string-array>
-=======
+<!--=======
     <string name="app_name">LocationInfo</string>
->>>>>>> 99acaf69a39e94b85ace20aec494a39b321645f3
+>>>>>>> 99acaf69a39e94b85ace20aec494a39b321645f3-->
 </resources>
