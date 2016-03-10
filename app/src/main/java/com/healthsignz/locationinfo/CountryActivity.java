@@ -26,6 +26,7 @@ public class CountryActivity extends AppCompatActivity {
                     String countryName = parent.getItemAtPosition(position).toString();
                     Intent countryIntent = new Intent(CountryActivity.this, StateActivity.class);
                     countryIntent.putExtra("CountrySelected", countryName);
+                    //changes made by Bhuvanesh inside hello branch
                     startActivity(countryIntent);
                 }
 
